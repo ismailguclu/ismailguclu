@@ -1,5 +1,7 @@
+<div align="center">
+<h3> 💻 Software Engineer | 🌏 The Netherlands </h3> 
+</div>
 
-💻 Software Engineer | 🌏 The Netherlands
 
 # Hi there 👋
 
